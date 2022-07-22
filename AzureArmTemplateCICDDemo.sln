@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureArmTemplateCICDDemo", "AzureArmTemplateCICDDemo\AzureArmTemplateCICDDemo.deployproj", "{8810C1BD-F1A0-4CD6-8AE9-1943D2B35936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8810C1BD-F1A0-4CD6-8AE9-1943D2B35936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8810C1BD-F1A0-4CD6-8AE9-1943D2B35936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8810C1BD-F1A0-4CD6-8AE9-1943D2B35936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8810C1BD-F1A0-4CD6-8AE9-1943D2B35936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98EE6021-D125-4E9C-9F2C-C9BB123156F5}
+	EndGlobalSection
+EndGlobal
